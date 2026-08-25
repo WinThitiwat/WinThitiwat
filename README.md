@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![GitHub Profile Summary](./summary.png)](https://profile-summary-for-github.com/user/WinThitiwat)
 
 <!--
 **WinThitiwat/WinThitiwat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
