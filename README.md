@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![GitHub Profile Summary](./resource/dashboard.png)](https://profile-summary-for-github.com/user/WinThitiwat)
+[GitHub Profile Summary ![GitHub Profile Summary](./resource/dashboard-v2.png)](https://profile-summary-for-github.com/user/WinThitiwat)
 
 ### 🔭 About Me
 Data Engineer with 5+ years of experience building large-scale distributed systems, batch and streaming data architectures, and cloud data platforms at scale. I specialize in event-driven batch and streaming data pipeline, lakehouse architectures, and cloud cost optimization—designing pipelines that ingest real-time event data into Apache Iceberg, manage 10+ TB logging datasets, and operate reliably across multi-cloud environments (AWS & GCP). Over my career, I’ve optimized query runtimes by 50%, driven $600K in annual cloud savings, and built self-service automation frameworks that reduce delivery turnaround times by 95%.  
