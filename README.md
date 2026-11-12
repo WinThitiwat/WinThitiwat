@@ -4,8 +4,10 @@
 ### 🔭 About Me
 Data Engineer with 5+ years of experience building large-scale distributed systems, batch and streaming data architectures, and cloud data platforms at scale. I specialize in event-driven batch and streaming data pipeline, lakehouse architectures, and cloud cost optimization—designing pipelines that ingest real-time event data into Apache Iceberg, manage 10+ TB logging datasets, and operate reliably across multi-cloud environments (AWS & GCP). Over my career, I’ve optimized query runtimes by 50%, driven $600K in annual cloud savings, and built self-service automation frameworks that reduce delivery turnaround times by 95%.  
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 ### ⚡ Core Tech Stack & Specialties:
-Cloud Platforms: AWS (Glue, Kinesis, S3, Redshift, EMR, Athena), GCP (Dataproc, BigTable, BigQuery)  
+Cloud Platforms: AWS (Glue, Kinesis, S3, Redshift, EMR, Athena), GCP (Dataproc, Bigtable, BigQuery)  
 Big Data & Streaming: PySpark, Apache Iceberg, Presto, Hive, Airflow, Kafka  
 Languages & Querying: Python, SQL, Java, TypeScript  
 Data Modeling & Architecture: Dimensional Modeling, Star/Snowflake Schemas, One-Big-Table (OBT), Data Lakes
